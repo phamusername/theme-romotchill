@@ -26,7 +26,7 @@ class ThemeRophimServiceProvider extends ServiceProvider
             'rophim' => [
                 'name' => 'Rophim',
                 'author' => 'contact.animehay@gmail.com',
-                'package_name' => 'ggg3/theme-rophim',
+                'package_name' => 'ggg3/theme-romotchill',
                 'publishes' => ['rophim-assets'],
                 'preview_image' => '',
                 'options' => [
